@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "clinical-extractor"
+version = "0.1.0"
+description = "Clinical text entity extraction engine for medications, diagnoses, investigations, and allergies."
+readme = "README.md"
+requires-python = ">=3.9"
+authors = [
+    { name = "Clinical AI Team" }
+]
+dependencies = [
+    "pydantic>=2.0",
+    "requests>=2.28.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0",
+]
+
+[project.scripts]
+clinical-extract = "clinical_extractor.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

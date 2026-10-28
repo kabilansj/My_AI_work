@@ -1,0 +1,45 @@
+HOSPITAL DISCHARGE SUMMARY
+
+PATIENT: John Doe
+AGE: 64 | SEX: Male
+ADMISSION DIAGNOSIS: Acute Decompensated Heart Failure
+DISCHARGE DATE: 2026-10-25
+
+CHIEF COMPLAINT:
+Shortness of breath on exertion and bilateral lower extremity edema.
+
+HISTORY OF PRESENT ILLNESS:
+The patient is a 64-year-old male with a history of congestive heart failure (EF 35%) and hypertension who presented with progressive dyspnea and orthopnea over 4 days.
+In the emergency department, patient denied chest pain, denied fever, and denied cough.
+
+PAST MEDICAL HISTORY:
+1. Congestive Heart Failure (HFrEF)
+2. Essential Hypertension
+3. Hyperlipidemia
+4. Chronic Kidney Disease Stage 3
+5. Childhood history of resolved asthma
+6. Family history of myocardial infarction (mother at 60)
+
+DISCHARGE MEDICATIONS:
+1. Furosemide 40 mg daily PO in the morning
+2. Carvedilol 12.5 mg twice daily PO
+3. Lisinopril 10 mg daily PO
+4. Atorvastatin 40 mg PO at bedtime
+5. Potassium chloride 20 mEq daily PO
+
+ALLERGIES:
+Penicillin (facial angioedema and urticaria).
+Sulfa drugs (mild rash).
+
+DISCHARGE LABS & DIAGNOSTICS:
+- Blood Pressure: 118/74 mmHg
+- Heart Rate: 68 bpm
+- Serum Creatinine: 1.3 mg/dL
+- Potassium: 4.4 mEq/L
+- Sodium: 138 mEq/L
+- BNP: 180 pg/mL (improved from 850 pg/mL on admission)
+- CXR: Resolution of pulmonary venous congestion, no pleural effusion
+- ECG: Normal sinus rhythm with left ventricular hypertrophy
+
+DISCHARGE INSTRUCTIONS:
+Follow low-sodium diet (<2g/day). Daily weights. Follow up in heart failure clinic in 1 week.

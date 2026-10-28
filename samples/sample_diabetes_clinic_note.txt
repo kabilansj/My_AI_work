@@ -1,0 +1,39 @@
+CLINIC PROGRESS NOTE
+
+DATE: 2026-10-28
+PROVIDER: Endocrinology Clinic
+PATIENT: Maria Gonzalez | AGE: 52
+
+SUBJECTIVE:
+Follow-up evaluation for Type 2 Diabetes Mellitus.
+Patient reports taking Metformin 1000 mg BID PO and Glipizide 5 mg daily PO.
+She checks fasting blood glucose at home, averaging 130-150 mg/dL.
+Denies hypoglycemia symptoms, denies dizziness, and denies chest pain.
+ALLERGIES: NKDA (No known drug allergies).
+
+OBJECTIVE:
+Physical Exam:
+- Alert, oriented x 3, in no acute distress.
+- Vitals: BP 124/78 mmHg, HR 74 bpm, Weight 76 kg.
+- Extremities: No edema, distal pulses intact.
+
+Laboratory Data:
+- HbA1c: 7.8% (previous 8.6%)
+- Fasting Blood Glucose: 138 mg/dL
+- Serum Creatinine: 0.9 mg/dL (normal)
+- eGFR: >90 mL/min
+- Total Cholesterol: 195 mg/dL
+- LDL: 110 mg/dL
+- HDL: 48 mg/dL
+- Triglycerides: 165 mg/dL
+
+ASSESSMENT / PLAN:
+1. Type 2 Diabetes Mellitus: Suboptimally controlled.
+   - Continue Metformin 1000 mg BID PO.
+   - Discontinue Glipizide.
+   - Initiate Empagliflozin 10 mg daily PO.
+2. Dyslipidemia:
+   - Start Atorvastatin 20 mg daily PO at bedtime.
+3. Health Maintenance:
+   - Dilated eye exam and podiatry foot exam ordered.
+   - Repeat HbA1c and lipid panel in 3 months.
